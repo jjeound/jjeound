@@ -21,6 +21,10 @@
           </div>
     </div>
     <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Prize & Awards </h2> <div style="text-align: left;"> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 제13회 K-해커톤 대회 최우수상 </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 2025 SW중심대학 우수작품 경진대회 후원기업상 (한글과 컴퓨터) </div>
+    </div> <br>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwlsdl321" width=40% />
     </div>
