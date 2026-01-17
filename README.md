@@ -27,7 +27,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeound&layout=compact"><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=jjeound&show_icons=true"><br><br>
       [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={wjdwlsdl321})](https://solved.ac/{wjdwlsdl321})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wjdwlsdl321)](https://solved.ac/wjdwlsdl321)
     </div>
     </div>
     
